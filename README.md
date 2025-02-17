@@ -1,2 +1,1 @@
-# Week2
-Mongo-DB_Assignments
+WEEK 2
